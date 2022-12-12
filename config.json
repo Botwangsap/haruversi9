@@ -1,11 +1,11 @@
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["66652963765@s.whatsapp.net","66654866905@s.whatsapp.net"],
+    "ownerName": "BotWhatsapp By AnggaKz😸😽🐸",
+    "instagram" : "https://www.instagram.com/anggatzi123",
+    "botName": "Lisabotz-MD❤️🌷🍒",
+    "footer": "https://www.instagram.com/anggatzi123",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "./media/61a005aa11d86c19813937528d88c21c.jpg",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -18,6 +18,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 100
     }
 }
